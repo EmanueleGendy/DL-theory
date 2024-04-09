@@ -21,29 +21,27 @@ To run the Jupyter notebooks in this repository, you'll need the following depen
     Jupyter Notebook
     pytorch, numpy, scipy, matplotlib
 
-## Installation
+## Usage
 
-Usage
-
-    Clone this repository to your local machine:
+Clone this repository to your local machine:
 
  ```bash
 git clone https://github.com/yourusername/DL-theory.git
  ```
 
-    Navigate to the cloned repository directory:
+Navigate to the cloned repository directory:
 
 ```bash
 cd DL-theory
  ```
 
-    Launch Jupyter Notebook:
+Launch Jupyter Notebook:
 
 ```bash
 jupyter notebook
  ```
 
-    Open the desired notebook and execute the cells to reproduce the results.
+Open the desired notebook and execute the cells to reproduce the results.
 
 ## License
 
